@@ -1,0 +1,20 @@
+{
+  "name": "arizona-facts-skill",
+  "version": "1.0.0",
+  "description": "fun facts about Arizona.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "arizona",
+    "facts"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
