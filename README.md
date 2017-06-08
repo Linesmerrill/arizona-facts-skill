@@ -1,4 +1,4 @@
-#Fun Facts About Arizona
+# Fun Facts About Arizona
 
 Do you think you know all about Arizona? Try this fun knowledge test about Arizona state.
 
