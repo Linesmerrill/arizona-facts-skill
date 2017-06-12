@@ -3,7 +3,7 @@ var Alexa = require('alexa-sdk');
 
 var APP_ID = undefined;
 
-var SKILL_NAME = "Facts About Arizona";
+var SKILL_NAME = "arizona's fun facts";
 var GET_FACT_MESSAGE = "Here's your interesting fact: ";
 var HELP_MESSAGE = "You can say tell me a fact about Arizona, or, you can say exit... What can I help you with?";
 var HELP_REPROMPT = "How can I help you?";

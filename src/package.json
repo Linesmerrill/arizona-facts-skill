@@ -1,7 +1,7 @@
 {
   "name": "arizona-facts-skill",
   "version": "1.0.0",
-  "description": "fun facts about Arizona.",
+  "description": "arizona's fun facts.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

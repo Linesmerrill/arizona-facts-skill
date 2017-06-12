@@ -4,7 +4,7 @@ Do you think you know all about Arizona? Try this fun knowledge test about Arizo
 
 Try asking Alexa one of these:
 
-Hey Alexa, 
+Hey Alexa,
 
 * "a random fact",
 * "tell me a fact",
