@@ -2,6 +2,8 @@
 
 Do you think you know all about Arizona? Try this fun knowledge test about Arizona state.
 
+Activate and try out this skill today: https://www.amazon.com/Merrill-Lines-Facts-About-Arizona/dp/B071G986HC/ref=sr_1_1?ie=UTF8&qid=1497374955&sr=8-1&keywords=alexa+skill+fun+facts+about+arizona
+
 Try asking Alexa one of these:
 
 Hey Alexa,
